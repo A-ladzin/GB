@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-03T22:08:37.106597800Z</date>
+  <millis>1701641317106</millis>
+  <nanos>597800</nanos>
+  <sequence>0</sequence>
+  <logger>logger</logger>
+  <level>WARNING</level>
+  <class>program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Test Logger 01</message>
+</record>
+<record>
+  <date>2023-12-03T22:08:37.143370400Z</date>
+  <millis>1701641317143</millis>
+  <nanos>370400</nanos>
+  <sequence>1</sequence>
+  <logger>logger</logger>
+  <level>INFO</level>
+  <class>program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Logger Test 02</message>
+</record>
+</log>
