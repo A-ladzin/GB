@@ -1,0 +1,112 @@
+
+a {
+    text-decoration: none;
+    color: cornflowerblue;
+    
+}
+a:visited {
+    color: white;
+}
+a:active {
+    color: coral;
+}
+
+
+body {
+    background: black;
+    width: 100%;
+    height: 56.25%;
+ 
+}
+.menu {
+    padding-top: 20px;
+}
+.menu-link1 {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+    
+}
+
+.main-heading{
+    background-color: #000000;
+}
+
+
+.main-heading1 {
+    background-color: coral;
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+    width: 10%;
+    display: inline;
+}
+
+.main-heading:hover  .main-heading1  {
+    background-color:#000000;
+    color: coral;
+}
+
+.main-heading2 {
+    color: coral;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+    width: 10%;
+    display: inline;
+}
+
+.main-heading:hover  .main-heading2 {
+    color:#222222;
+    background-color: coral;
+}
+
+.index-link:hover {
+    background-color: #111111;
+}
+.text-paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+    display: block;
+}
+
+
+.sub-heading {
+    color: coral;
+    text-align: center;
+    display: block;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+    border: 3px solid #222222;
+    
+    border-width: 1px;
+}
+
+.product-title {
+    font-size: 16px;
+}
+.product-desc {
+    font-size: 16px;
+    width: 80%;
+}
+
+.product {
+    border-bottom: 3px solid coral;
+    display: block;
+    height: 20%;
+    width:100%;
+    border-bottom-right-radius: 50%;
+    
+}
+
+.product-image {
+    height: 100px;
+    width: 100px;
+    display: inline;
+}
